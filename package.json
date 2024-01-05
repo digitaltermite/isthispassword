@@ -1,0 +1,19 @@
+{
+  "name": "isthispassword",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitaltermite/isthispassword.git"
+  },
+  "author": "Mateusz Sybilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digitaltermite/isthispassword/issues"
+  },
+  "homepage": "https://github.com/digitaltermite/isthispassword#readme"
+}
